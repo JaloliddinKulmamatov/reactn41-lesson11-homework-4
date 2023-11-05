@@ -1,0 +1,35 @@
+.nav {
+    background-color: #282a35;
+        height: 80px;
+        text-align: center;
+        font-size: 25px;
+        word-spacing: 20px;
+}
+.nav a {
+    color: #fff;
+    text-decoration: none;
+    line-height: 80px;
+}
+
+.study {
+   background-color:  #d9eee1
+}
+
+button {
+    background-color: #04aa6d;
+    height: 50px;
+    font-size: 18px;
+    color: #fff;
+}
+
+.black {
+    background-color: #000;
+}
+
+img {
+    height: 300px;
+}
+
+.img-css {
+    line-height: 5px;
+}
